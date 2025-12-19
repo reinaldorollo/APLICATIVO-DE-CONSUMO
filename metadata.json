@@ -1,0 +1,5 @@
+{
+  "name": "EcoDrive: Gestor de Consumo",
+  "description": "Um aplicativo intuitivo para rastrear o consumo de combustível, custos por quilômetro e histórico de abastecimentos do seu veículo, com análises inteligentes.",
+  "requestFramePermissions": []
+}
